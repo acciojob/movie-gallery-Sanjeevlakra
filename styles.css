@@ -6,8 +6,8 @@
  justify-content:center;
 }
 
-.container-fluid > .col-sm-4 {
-  background-color: yellow;
+.container-fluid > .col-sm-4  {
+  
   width: 100px;
   margin: 10px;
   text-align: center;
