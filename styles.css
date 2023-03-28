@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-.fluid-container {
+.container-fluid {
   display: flex;
   flex-wrap: nowrap;
  justify-content:center;
 }
 
-.fluid-container > div {
+.container-fluid > div {
   background-color: yellow;
   width: 100px;
   margin: 10px;
